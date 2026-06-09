@@ -7,5 +7,5 @@ Software Engineer
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cs,mysql,postgres,mongodb,firebase,docker,kubernetes,aws,linux,git,github,vscode,figma,tailwind,redux,prisma,sequelize,bash,vercel,netlify&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,git,github,vscode,docker&perline=6" />
 </p>

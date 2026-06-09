@@ -6,6 +6,6 @@
 -  Focused on writing clean, efficient and maintainable code
 -  Passionate about technology and continuous growth
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&perline=10" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,aws,nodejs,react,ts,postgres&perline=5&size=45" />
+</div>

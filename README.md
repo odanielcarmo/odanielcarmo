@@ -1,4 +1,3 @@
-👨‍💻 About Me
 
 -  Software Engineering Student
 -  Continuously learning and improving my skills

@@ -7,5 +7,5 @@
 -  Passionate about technology and continuous growth
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,postgres,docker,git,github,vscode&perline=7" width="300" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&perline=10" />
 </p>

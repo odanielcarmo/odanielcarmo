@@ -4,6 +4,6 @@ Hands-on experience with JavaScript, TypeScript, and Python through personal and
 
 Focused on clean architecture, best practices, and building production-ready solutions
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,postgres,docker,linux,git,github,githubactions,aws&perline=12&size=45" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,postgres,mongodb,docker,git,github,vscode,linux,aws,tailwind,firebase,figma&perline=8" width="400" />
+</p>

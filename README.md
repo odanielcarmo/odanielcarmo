@@ -6,22 +6,10 @@ Focused on clean architecture, best practices, and building production-ready sol
 
 <div align="center">
 
-<hr style="border: none; height: 1px; background: rgba(255,255,255,0.25); width: 85%; margin-bottom: 25px;">
+<hr width="85%" style="border: 0.5px solid rgba(255,255,255,0.15);">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="45"/>
-  <img src="https://skillicons.dev/icons?i=go" height="45"/>
-  <img src="https://skillicons.dev/icons?i=py" height="45"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
-  <img src="https://skillicons.dev/icons?i=kafka" height="45"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
-  <img src="https://skillicons.dev/icons?i=redis" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="45"/>
-</p>
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,go,python,kotlin,spring,kafka,aws,redis,postgres,mysql,docker,mongodb,terraform&perline=13" height="32"/>
 
 </div>

@@ -6,8 +6,8 @@ Focused on clean architecture, best practices, and building production-ready sol
 <div align="center">
   <img
     width="85%"
-    height="1"
-    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff20&height=1&section=header"
+    height="3"
+    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff20&height=3&section=header"
   />
 </div>
 
@@ -15,7 +15,7 @@ Focused on clean architecture, best practices, and building production-ready sol
 
 <div align="center">
   <img
-    height="32"
+    height="30"
     src="https://skillicons.dev/icons?i=java,go,py,kotlin,spring,kafka,aws,redis,postgres,mysql,docker,mongodb,terraform"
   />
 </div>

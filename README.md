@@ -4,9 +4,18 @@ Hands-on experience with JavaScript, TypeScript, and Python through personal and
 
 Focused on clean architecture, best practices, and building production-ready solutions
 <div align="center">
-
-<img height="45" src="https://skillicons.dev/icons?i=java,go,py,kotlin,spring,kafka,aws,redis,postgres,mysql,docker,mongodb,terraform" />
-
+  <img
+    width="85%"
+    height="1"
+    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff20&height=1&section=header"
+  />
 </div>
 
-<hr style="border: none; height: 1px; background: rgba(255,255,255,0.25); width: 85%; margin: 20px auto;">
+<br>
+
+<div align="center">
+  <img
+    height="32"
+    src="https://skillicons.dev/icons?i=java,go,py,kotlin,spring,kafka,aws,redis,postgres,mysql,docker,mongodb,terraform"
+  />
+</div>

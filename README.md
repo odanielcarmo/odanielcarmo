@@ -4,6 +4,10 @@ Hands-on experience with JavaScript, TypeScript, and Python through personal and
 
 Focused on clean architecture, best practices, and building production-ready solutions
 
+
+
+
+
 ⸻
 <p align="center">
   <img

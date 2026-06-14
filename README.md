@@ -4,6 +4,24 @@ Hands-on experience with JavaScript, TypeScript, and Python through personal and
 
 Focused on clean architecture, best practices, and building production-ready solutions
 
-<p align="center">
-  <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=808080"/>
+<div align="center">
+
+<hr style="border: none; height: 1px; background: rgba(255,255,255,0.25); width: 85%; margin-bottom: 25px;">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=go" height="45"/>
+  <img src="https://skillicons.dev/icons?i=py" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="45"/>
 </p>
+
+</div>
